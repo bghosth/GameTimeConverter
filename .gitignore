@@ -1,0 +1,59 @@
+# Ignore Visual Studio-specific files
+.vs/
+*.suo
+*.user
+*.exe
+*.dll
+*.pdb
+*.cache
+*.csproj.user
+
+# Ignore build & output directories
+bin/
+obj/
+Debug/
+Release/
+TestResults/
+
+# Ignore user-specific settings
+*.sln.ide
+*.sln.docstates
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Ignore logs & temp files
+*.log
+*.tmp
+*.cache
+*.ldb
+
+# Ignore ReSharper & Rider files (if using JetBrains)
+.idea/
+*.DotSettings.user
+*.sln.DotSettings
+
+# Ignore compiled Python files (if using Python scripts)
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore Windows Thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Ignore IDE-specific settings
+*.VC.db
+*.VC.opendb
+
+# Ignore auto-generated files from Windows Forms Designer
+*.Designer.cs
+
+# Ignore App Icon
+*.ico
+
+# Ignore any secrets (in case of API keys or configs)
+appsettings.json
+secrets.json
