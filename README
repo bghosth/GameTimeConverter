@@ -1,0 +1,101 @@
+# 🎮 GameTimeConverter - 遊戲時間轉換工具
+
+## 📌 簡介
+GameTimeConverter 是一款 **Windows 應用程式**，可將 **遊戲時間（EGT, UTC-2）轉換為台北時間（TST, UTC+8）和紐約時間（EST/EDT, UTC-5/UTC-4）**。
+
+🔹 **主要特點**
+- 🎮 **遊戲時間轉換**：將 **EGT (UTC-2)** 轉換為 **TST (UTC+8)** 和 **紐約時間**。
+- ⏳ **簡單輸入**：使用 **`yyyy-MM-dd HH:mm`** 格式輸入時間。
+
+---
+
+## 📥 下載
+🔗 [📎 點此下載最新版本](https://github.com/bghosth/GameTimeConverter/releases)
+
+---
+
+## 🔄 未來更新計畫
+✅ 增加更多時區支援  
+✅ 自動調整 **夏令時間 (DST)**  
+✅ 日期選擇器（DatePicker）  
+✅ 多語言支援  
+
+---
+
+## 💻 系統需求
+- 🖥️ **作業系統**：Windows 7 / 8 / 10 / 11
+- 📦 **.NET Framework**：4.7.2 或更新版本
+- 💾 **磁碟空間**：少於 10MB
+
+---
+
+## 🛠️ 如何使用
+1️⃣ **下載並執行 `GameTimeConverter.exe`**  
+2️⃣ **輸入遊戲時間**（格式 `yyyy-MM-dd HH:mm`）  
+3️⃣ **按下 `Enter` 或點擊轉換按鈕**  
+4️⃣ **查看台北時間與紐約時間結果**  
+
+---
+
+## 🤝 貢獻方式
+🎯 如果您發現錯誤或有改進建議，請至 **[GitHub Issues](https://github.com/bghosth/GameTimeConverter/issues)** 提交問題！  
+
+---
+
+## 📜 授權 (License)
+🔗 本專案以 **GNU General Public License v3 (GPLv3)** 發佈，您可以自由使用、修改和分發，但需遵守 GPLv3 授權條款。
+
+📄 [查看 GPLv3 授權條款](https://www.gnu.org/licenses/gpl-3.0.zh-tw.html)
+
+---
+
+# 🎮 GameTimeConverter - Game Time Converter Tool (English)
+
+## 📌 Introduction
+GameTimeConverter is a **Windows application** that converts **game time (EGT, UTC-2) into Taipei Time (TST, UTC+8) and New York Time (EST/EDT, UTC-5/UTC-4).**
+
+🔹 **Key Features**
+- 🎮 **Game Time Conversion**: Converts **EGT (UTC-2)** into **TST (UTC+8)** and **New York Time**.
+- ⏳ **Easy Input**: Enter time using **`yyyy-MM-dd HH:mm`** format.
+
+---
+
+## 📥 Download
+🔗 [📎 Click here to download the latest release](https://github.com/bghosth/GameTimeConverter/releases)
+
+---
+
+## 🔄 Future Updates
+✅ More time zone support  
+✅ **Automatic Daylight Saving Time (DST) adjustment**  
+✅ Date Picker for easier input  
+✅ Multi-language support  
+
+---
+
+## 💻 System Requirements
+- 🖥️ **OS**: Windows 7 / 8 / 10 / 11
+- 📦 **.NET Framework**: 4.7.2 or later
+- 💾 **Disk Space**: Less than 10MB
+
+---
+
+## 🛠️ How to Use
+1️⃣ **Download and run `GameTimeConverter.exe`**  
+2️⃣ **Enter game time** (format `yyyy-MM-dd HH:mm`)  
+3️⃣ **Press `Enter` or click the convert button**  
+4️⃣ **Check the converted Taipei and New York time results**  
+
+---
+
+## 🤝 Contributing
+🎯 If you find bugs or have suggestions, please open an issue on **[GitHub Issues](https://github.com/bghosth/GameTimeConverter/issues)**!  
+
+---
+
+## 📜 License
+🔗 This project is licensed under the **GNU General Public License v3 (GPLv3)**. You are free to use, modify, and distribute it, as long as you comply with the GPLv3 terms.
+
+📄 [View GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+---
