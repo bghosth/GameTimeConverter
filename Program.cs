@@ -10,7 +10,7 @@ namespace GameTimeConverter
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new GameTimeConverterForm());
+            Application.Run(new MainForm());
         }
     }
 }
