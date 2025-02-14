@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "F:\\Source Code\\Game Time Converter\\GameTimeConverter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEBFF84D-FA8F-4E4E-9910-A86139D8868B}|GameTimeConverter.csproj|F:\\Source Code\\Game Time Converter\\GameTimeConverter\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FEBFF84D-FA8F-4E4E-9910-A86139D8868B}|GameTimeConverter.csproj|f:\\source code\\game time converter\\gametimeconverter\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FEBFF84D-FA8F-4E4E-9910-A86139D8868B}|GameTimeConverter.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBFF84D-FA8F-4E4E-9910-A86139D8868B}|GameTimeConverter.csproj|f:\\source code\\game time converter\\gametimeconverter\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FEBFF84D-FA8F-4E4E-9910-A86139D8868B}|GameTimeConverter.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEBFF84D-FA8F-4E4E-9910-A86139D8868B}|GameTimeConverter.csproj|F:\\Source Code\\Game Time Converter\\GameTimeConverter\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{FEBFF84D-FA8F-4E4E-9910-A86139D8868B}|GameTimeConverter.csproj|solutionrelative:languagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEBFF84D-FA8F-4E4E-9910-A86139D8868B}|GameTimeConverter.csproj|f:\\source code\\game time converter\\gametimeconverter\\gametimezones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEBFF84D-FA8F-4E4E-9910-A86139D8868B}|GameTimeConverter.csproj|F:\\Source Code\\Game Time Converter\\GameTimeConverter\\gametimezones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEBFF84D-FA8F-4E4E-9910-A86139D8868B}|GameTimeConverter.csproj|solutionrelative:gametimezones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,7 +31,7 @@
       "RelativeMoniker": "D:0:0:{FEBFF84D-FA8F-4E4E-9910-A86139D8868B}|GameTimeConverter.csproj|solutionrelative:timeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEBFF84D-FA8F-4E4E-9910-A86139D8868B}|GameTimeConverter.csproj|f:\\source code\\game time converter\\gametimeconverter\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEBFF84D-FA8F-4E4E-9910-A86139D8868B}|GameTimeConverter.csproj|F:\\Source Code\\Game Time Converter\\GameTimeConverter\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEBFF84D-FA8F-4E4E-9910-A86139D8868B}|GameTimeConverter.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,12 +50,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "F:\\Source Code\\Game Time Converter\\GameTimeConverter\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "F:\\Source Code\\Game Time Converter\\GameTimeConverter\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-14T20:22:10.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "F:\\Source Code\\Game Time Converter\\GameTimeConverter\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "MainForm.Designer.cs",
-              "ToolTip": "F:\\Source Code\\Game Time Converter\\GameTimeConverter\\MainForm.Designer.cs",
-              "RelativeToolTip": "MainForm.Designer.cs",
+              "ToolTip": "F:\\Source Code\\Game Time Converter\\GameTimeConverter\\MainForm.Designer.cs*",
+              "RelativeToolTip": "MainForm.Designer.cs*",
               "ViewState": "AgIAAPsAAAAAAAAAAAAkwCcBAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T17:59:06.114Z",
@@ -63,12 +80,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainForm.cs",
               "DocumentMoniker": "F:\\Source Code\\Game Time Converter\\GameTimeConverter\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "F:\\Source Code\\Game Time Converter\\GameTimeConverter\\MainForm.cs",
-              "RelativeToolTip": "MainForm.cs",
+              "ToolTip": "F:\\Source Code\\Game Time Converter\\GameTimeConverter\\MainForm.cs*",
+              "RelativeToolTip": "MainForm.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T09:11:12.606Z",
@@ -76,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LanguageManager.cs",
               "DocumentMoniker": "F:\\Source Code\\Game Time Converter\\GameTimeConverter\\LanguageManager.cs",
               "RelativeDocumentMoniker": "LanguageManager.cs",
@@ -89,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GameTimeZones.cs",
               "DocumentMoniker": "F:\\Source Code\\Game Time Converter\\GameTimeConverter\\GameTimeZones.cs",
               "RelativeDocumentMoniker": "GameTimeZones.cs",
@@ -102,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UIHelper.cs",
               "DocumentMoniker": "F:\\Source Code\\Game Time Converter\\GameTimeConverter\\UIHelper.cs",
               "RelativeDocumentMoniker": "UIHelper.cs",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TimeConverter.cs",
               "DocumentMoniker": "F:\\Source Code\\Game Time Converter\\GameTimeConverter\\TimeConverter.cs",
               "RelativeDocumentMoniker": "TimeConverter.cs",
@@ -132,8 +149,8 @@
               "Title": "MainForm.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "F:\\Source Code\\Game Time Converter\\GameTimeConverter\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "F:\\Source Code\\Game Time Converter\\GameTimeConverter\\MainForm.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "MainForm.cs [\u8A2D\u8A08]",
+              "ToolTip": "F:\\Source Code\\Game Time Converter\\GameTimeConverter\\MainForm.cs [\u8A2D\u8A08]*",
+              "RelativeToolTip": "MainForm.cs [\u8A2D\u8A08]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T09:02:20.481Z",
               "EditorCaption": " [\u8A2D\u8A08]"
