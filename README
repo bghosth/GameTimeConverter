@@ -1,11 +1,14 @@
 # 🎮 GameTimeConverter - 遊戲時間轉換工具
 
 ## 📌 簡介
-GameTimeConverter 是一款 **Windows 應用程式**，可將 **遊戲時間（EGT, UTC-2）轉換為台北時間（TST, UTC+8）和紐約時間（EST/EDT, UTC-5/UTC-4）**。
+GameTimeConverter 是一款 **Windows 應用程式**，可將 **遊戲時間（EGT, UTC-2）轉換為台北時間（TST, UTC+8）、紐約時間（EST/EDT, UTC-5/UTC-4）、首爾時間（KST, UTC+9）、以及洛杉磯時間（PST/PDT, UTC-8/UTC-7）**。
 
 🔹 **主要特點**
-- 🎮 **遊戲時間轉換**：將 **EGT (UTC-2)** 轉換為 **TST (UTC+8)** 和 **紐約時間**。
-- ⏳ **簡單輸入**：使用 **`yyyy-MM-dd HH:mm`** 格式輸入時間。
+- 🎮 **遊戲時間轉換**：支援 **EGT (UTC-2)** 轉換為多個時區，包括 **TST (UTC+8)、EST/EDT (UTC-5/UTC-4)、KST (UTC+9)、PST/PDT (UTC-8/UTC-7)**。
+- ⏳ **簡單輸入**：透過 **下拉選單選擇日期與時間**，不需手動輸入。
+- 🌍 **多語言支援**：內建 **10 種語言**，可透過 **國旗選單快速切換**。
+- 🎨 **智慧 UI 排列**：**自動居中對齊** 控件，確保整齊美觀。
+- 🕰️ **24 小時制顯示**，確保時間轉換清晰易讀。
 
 ---
 
@@ -14,11 +17,11 @@ GameTimeConverter 是一款 **Windows 應用程式**，可將 **遊戲時間（E
 
 ---
 
-## 🔄 未來更新計畫
-✅ 增加更多時區支援  
-✅ 自動調整 **夏令時間 (DST)**  
-✅ 日期選擇器（DatePicker）  
-✅ 多語言支援  
+## 🔄 近期更新 (v2.0.0)
+✅ **介面優化**：所有控件 **自動對齊、智慧間距調整**  
+✅ **新增時區轉換**：支援 **首爾 (KST) 和洛杉磯 (PST/PDT)**  
+✅ **支援多語言**：內建 **10 種語言**，支援 **國旗式選單切換**  
+✅ **改善時間顯示**：**保持 24 小時制格式，避免混淆**  
 
 ---
 
@@ -31,9 +34,9 @@ GameTimeConverter 是一款 **Windows 應用程式**，可將 **遊戲時間（E
 
 ## 🛠️ 如何使用
 1️⃣ **下載並執行 `GameTimeConverter.exe`**  
-2️⃣ **輸入遊戲時間**（格式 `yyyy-MM-dd HH:mm`）  
-3️⃣ **按下 `Enter` 或點擊轉換按鈕**  
-4️⃣ **查看台北時間與紐約時間結果**  
+2️⃣ **選擇遊戲時間**（使用 **下拉選單** 選擇年份、月份、日期、時間）  
+3️⃣ **時間將即時轉換並顯示**  
+4️⃣ **可切換語言，支援 10 種語言**  
 
 ---
 
@@ -52,11 +55,14 @@ GameTimeConverter 是一款 **Windows 應用程式**，可將 **遊戲時間（E
 # 🎮 GameTimeConverter - Game Time Converter Tool (English)
 
 ## 📌 Introduction
-GameTimeConverter is a **Windows application** that converts **game time (EGT, UTC-2) into Taipei Time (TST, UTC+8) and New York Time (EST/EDT, UTC-5/UTC-4).**
+GameTimeConverter is a **Windows application** that converts **game time (EGT, UTC-2) into Taipei Time (TST, UTC+8), New York Time (EST/EDT, UTC-5/UTC-4), Seoul Time (KST, UTC+9), and Los Angeles Time (PST/PDT, UTC-8/UTC-7).**
 
 🔹 **Key Features**
-- 🎮 **Game Time Conversion**: Converts **EGT (UTC-2)** into **TST (UTC+8)** and **New York Time**.
-- ⏳ **Easy Input**: Enter time using **`yyyy-MM-dd HH:mm`** format.
+- 🎮 **Game Time Conversion**: Supports **EGT (UTC-2)** conversion to multiple time zones, including **TST (UTC+8), EST/EDT (UTC-5/UTC-4), KST (UTC+9), PST/PDT (UTC-8/UTC-7)**.
+- ⏳ **Easy Input**: **Dropdown-based date and time selection**, no manual input required.
+- 🌍 **Multi-Language Support**: Built-in **10 languages**, with **flag-based selection for quick switching**.
+- 🎨 **Smart UI Layout**: **Automatically aligns UI elements** for a clean and structured display.
+- 🕰️ **24-Hour Time Format** for clear and accurate time conversion.
 
 ---
 
@@ -65,11 +71,11 @@ GameTimeConverter is a **Windows application** that converts **game time (EGT, U
 
 ---
 
-## 🔄 Future Updates
-✅ More time zone support  
-✅ **Automatic Daylight Saving Time (DST) adjustment**  
-✅ Date Picker for easier input  
-✅ Multi-language support  
+## 🔄 Recent Updates (v2.0.0)
+✅ **Improved UI**: **Automatic center alignment and dynamic spacing adjustments**  
+✅ **New Time Zone Support**: **Seoul (KST) and Los Angeles (PST/PDT) now included**  
+✅ **Multi-Language Support**: **10 languages available, with flag-based selection**  
+✅ **Better Time Display**: **Consistently uses the 24-hour format**  
 
 ---
 
@@ -82,9 +88,9 @@ GameTimeConverter is a **Windows application** that converts **game time (EGT, U
 
 ## 🛠️ How to Use
 1️⃣ **Download and run `GameTimeConverter.exe`**  
-2️⃣ **Enter game time** (format `yyyy-MM-dd HH:mm`)  
-3️⃣ **Press `Enter` or click the convert button**  
-4️⃣ **Check the converted Taipei and New York time results**  
+2️⃣ **Select game time** (using **dropdown menus** for year, month, day, and time)  
+3️⃣ **Time will be instantly converted and displayed**  
+4️⃣ **Switch between 10 languages using flag-based selection**  
 
 ---
 
@@ -99,3 +105,10 @@ GameTimeConverter is a **Windows application** that converts **game time (EGT, U
 📄 [View GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ---
+
+### **🚀 What’s Improved?**
+✔ **Updated features and UI improvements in v2.0.0**  
+✔ **Removed outdated goals that have already been achieved**  
+✔ **Better formatting and readability for users**  
+
+Now your **README** is polished and up-to-date! 🎯😊 Let me know if you need any final tweaks! 🚀🔥
